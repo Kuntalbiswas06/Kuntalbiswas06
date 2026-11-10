@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=167A02&width=435&lines=%23+%F0%9F%92%AB+Hi+%F0%9F%91%8B%2C+I'm+Kuntal+Biswas)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=167A02&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kuntal+Biswas)](https://git.io/typing-svg) <br>
 **A passionate Software Engineer (Backend & DevOps) || Building Scalable Distributed Systems & Microservices**
 
 Email Me 👉 ✉️ **kuntal.biswas.0698@gmail.com** For Collaboration/Project. 😊😊
